@@ -1,0 +1,14 @@
+layout_spectrum: 0.8253426984883845
+typography_spectrum: 0.9048966390546411
+color:
+  brandStrength: 0.429244288476184
+  lightness: 0.2610950102098286
+  saturation: 0.6274037908297032
+  rhythmicContrast: 0.015036230674013495
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: zouma
